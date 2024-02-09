@@ -1,0 +1,16 @@
+{
+    "name": "PaperialAudio",
+    "rootNamespace": "",
+    "references": [
+        "GUID:479797a1478d6944bb3abdf54601ce9c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

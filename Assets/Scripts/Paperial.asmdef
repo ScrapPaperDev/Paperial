@@ -1,0 +1,21 @@
+{
+    "name": "Paperial",
+    "rootNamespace": "Paperial",
+    "references": [
+        "GUID:479797a1478d6944bb3abdf54601ce9c",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:8891d5cc1ff73244d8bc9a1f48f4b372"
+    ],
+    "includePlatforms": [
+        "Editor",
+        "WindowsStandalone64"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
